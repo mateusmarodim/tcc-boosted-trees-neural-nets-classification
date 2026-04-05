@@ -1,0 +1,25 @@
+# Core Data Science Libraries
+numpy
+pandas
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter & Development
+jupyter
+ipython
+ipykernel
+
+# Utilities
+python-dotenv
+tqdm
+requests
+
+# Code Quality
+black
+flake8
+pylint
